@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "29f847b29b77ea5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a31c98272d36c95f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a505afe72c6764d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "a66923b00779ecff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_GAP_Analysis/01 Gap Analysis - Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Gap Analysis - Intro"
+            }
+          },
+          {
+            "id": "f9d9577a7dfde1a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "19a6dd88cde64741",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Relaciones.canvas",
+                "viewState": {
+                  "x": 2234,
+                  "y": 1261.0849941070596,
+                  "zoom": -2.4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Relaciones"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd5a578901965110",
+    "type": "split",
+    "children": [
+      {
+        "id": "968849d35a355cf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b85241ca40dd80a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "bc12c1539bf7c7be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "96b6a90def763cd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "986c348b7816d71d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ad325dc420f889e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcb37e68bf5e5d53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_GAP_Analysis/Informe de diagnóstico inicial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Informe de diagnóstico inicial"
+            }
+          },
+          {
+            "id": "6253edb2d95807dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_GAP_Analysis/Informe de diagnóstico inicial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Informe de diagnóstico inicial"
+            }
+          },
+          {
+            "id": "0fef33346623bbeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "768f865911c1fe7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_GAP_Analysis/Informe de diagnóstico inicial.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Informe de diagnóstico inicial"
+            }
+          },
+          {
+            "id": "45acc0da85bcfda1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Iniciar/Detener la grabación": false
+    }
+  },
+  "active": "f9d9577a7dfde1a9",
+  "lastOpenFiles": [
+    "Relaciones.canvas",
+    "01_GAP_Analysis/01 Gap Analysis - Intro.md",
+    "10_Certificacion_por_Entidad_Acreditada/10 Certificación por Entidad Acreditada - Intro.md",
+    "09_Acciones_Correctivas_y_Mejora_Continua/09 Acciones Correctivas y Mejora Continua - Intro.md",
+    "08_Revision_por_la_Direccion/08 Revisión por la Dirección - Intro.md",
+    "07_Auditoria_Interna/07 Auditoría Interna - Intro.md",
+    "06_Formacion_y_Concienciacion/06 Formación y Concienciación - Intro.md",
+    "05_Implementacion_de_Controles/05 Implementación de Controles - Intro.md",
+    "04_Evaluación_y_Tratamiento_de_Riesgos/04 Evaluación y Tratamiento de Riesgos - Intro.md",
+    "03_Alta_Dirección_y_Política_del_SGSI/03 Alta Dirección y Política del SGSI - Intro.md",
+    "02_Definicion_del_alcance_y_contexto/02 Definición del Alcance y Contexto - Intro.md",
+    "Sin título 1.canvas",
+    "09_Acciones_Correctivas_y_Mejora_Continua/Documentos emitidos/Mejora continua.md",
+    "09_Acciones_Correctivas_y_Mejora_Continua/Documentos emitidos/Registro de acciones correctivas.md",
+    "08_Revision_por_la_Direccion/Documentos emitidos/Acta de revisión por la dirección.md",
+    "07_Auditoria_Interna/Documentos emitidos/Plan de auditoría.md",
+    "07_Auditoria_Interna/Documentos emitidos/No conformidades.md",
+    "07_Auditoria_Interna/Documentos emitidos/Informes.md",
+    "07_Auditoria_Interna/Documentos emitidos/Acciones correctivas.md",
+    "06_Formacion_y_Concienciacion/Documentos emitidos/Registros de asistencia.md",
+    "06_Formacion_y_Concienciacion/Documentos emitidos/Plan de formación.md",
+    "05_Implementacion_de_Controles/Documentos emitidos/Registros.md",
+    "05_Implementacion_de_Controles/Documentos emitidos/Procedimientos.md",
+    "05_Implementacion_de_Controles/Documentos emitidos/Políticas operativas.md",
+    "04_Evaluación_y_Tratamiento_de_Riesgos/Documentos emitidos/Análisis de riesgos.md",
+    "04_Evaluación_y_Tratamiento_de_Riesgos/Documentos emitidos/Statement of Applicability (SoA).md",
+    "04_Evaluación_y_Tratamiento_de_Riesgos/Documentos emitidos/Plan de tratamiento.md",
+    "00_Recursos/Documentos adicionales",
+    "10_Certificacion_por_Entidad_Acreditada/Documentos emitidos",
+    "09_Acciones_Correctivas_y_Mejora_Continua/Documentos emitidos",
+    "08_Revision_por_la_Direccion/Documentos emitidos",
+    "07_Auditoria_Interna/Documentos emitidos",
+    "06_Formacion_y_Concienciacion/Documentos emitidos",
+    "05_Implementacion_de_Controles/Documentos emitidos",
+    "04_Evaluación_y_Tratamiento_de_Riesgos/Documentos emitidos",
+    "03_Alta_Dirección_y_Política_del_SGSI/Documentos emitidos",
+    "02_Definicion_del_alcance_y_contexto/Documentos emitidos"
+  ]
+}
